@@ -23,7 +23,7 @@ int main(int argc, char *argv[]) {
     }
 
     char url[512];
-    snprintf(url, sizeof(url), "https://example.com/search.php?q=%s", escaped_query);
+    snprintf(url, sizeof(url), "https://kagi.com/search?q=%s", escaped_query);
     
     printf("Opening URL: %s\n", url); // Debugging purposes
 
