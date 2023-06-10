@@ -1,6 +1,8 @@
-# kagi
+# kagi-cli-shortcut
 
-A simple command-line shortcut to make web searches.
+A simple command-line shortcut to make web searches with either [Kagi](https://kagi.com) or [Brave](https://search.brave.com).
+
+This project is in no way affiliated with either company/service.
 
 ## Rationale
 
