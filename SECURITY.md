@@ -2,13 +2,13 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
 | Version | Supported          |
 | ------- | ------------------ |
 | 0.23.1  | :x: |
 
+See LICENSE for the complete and utter lack of warranty. 
+
+I have no idea if this thing is insecure or not.
 
 ## Reporting a Vulnerability
 
