@@ -17,7 +17,7 @@ Why type more than you have to? This opens a Kagi search results page in your de
 
 ## Release for macOS
 
-version 0.23.1 [file](/file)
+[macOS universal binary, version 0.23.1](https://github.com/timdesrochers/kagi-cli-shortcut/releases/tag/v0.23.1)
 
 Install the binary by copying it to wherever your $PATH may lead you.
 
