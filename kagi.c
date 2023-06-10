@@ -8,8 +8,7 @@
 
 int main(int argc, char * argv[]) {
 	if (argc < 2) {
-		fprintf(stderr, "Usage: kagi \"search query\" [--cli browser] [--brave "
-				query "]\n");
+		fprintf(stderr, "Usage: kagi \"search query\" [--cli browser] [--brave \"query\"]\n");
 		return 1;
 	}
 
