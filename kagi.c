@@ -5,7 +5,7 @@
 
 int main(int argc, char *argv[]) {
     if (argc != 2) {
-        fprintf(stderr, "Usage: esearch \"search query\"\n");
+        fprintf(stderr, "Usage: kagi \"search query\"\n");
         return 1;
     }
 
